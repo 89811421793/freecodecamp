@@ -1,4 +1,4 @@
-let timesFive = function (arg) {
+let timesFive = function(arg) {
     return arg*5;
   }
   
