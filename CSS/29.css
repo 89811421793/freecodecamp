@@ -1,0 +1,11 @@
+/*if too much width, regulate it for fitting*/
+
+.flavor {
+    text-align: left;
+    width: 49%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 49%;
+  }
