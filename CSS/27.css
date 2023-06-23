@@ -1,0 +1,4 @@
+.item p { /* one gap/space means nested */
+    display:inline-block;
+}
+
