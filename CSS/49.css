@@ -1,0 +1,5 @@
+h1, h2 {
+    font-family: Impact,serif;
+  
+    /*Fallbacks are used in instances where the initial is not found/available.*/
+}
