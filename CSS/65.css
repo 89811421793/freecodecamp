@@ -1,3 +1,5 @@
 .bottom-line {
     margin-top: 25px;
 }
+
+/*or the last menu item may have one more class (selector); than add margin-bottom: 25px */
