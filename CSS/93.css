@@ -1,0 +1,7 @@
+.marker {
+    background-color: red;
+    height:25px;
+    width: 200px;
+  
+    /*since the marker div element had no content in it, it didn't have any height by default.*/
+  }
