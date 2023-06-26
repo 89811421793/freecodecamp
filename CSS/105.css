@@ -1,0 +1,6 @@
+.two {
+    background-color: rgb(0, 127, 0);
+  
+    /*0 - the lowest intensity; 255 - the highest one;
+    rgb(0,0,0) - black; rgb(255,255,255) -  white*/
+  }
