@@ -5,4 +5,5 @@
   /*The HSL color model, or hue, saturation, and lightness;
   The CSS hsl function accepts 3 values: a number from 0 to 360 for hue,
   a percentage from 0(gray) to 100(white) for saturation, 
-  and a percentage from 0(black) to 100 for lightness.*/
+  and a percentage from 0(black) to 100 for lightness;
+  the hue red is at 0 degrees, green is at 120 degrees, and blue is at 240 degrees.*/
