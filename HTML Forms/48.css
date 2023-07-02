@@ -1,5 +1,7 @@
-input, textarea, select {
-    width:100%;
+input,
+textarea,
+select {
+    width: 100%;
     margin: 10px 0 0 0;
     /*or margin-top: 10px;
         margin-bottom: 0;
