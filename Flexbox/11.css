@@ -1,0 +1,4 @@
+.gallery {
+    display: flex;
+  }
+  /* by default: they align horizontally (flex-wrap: nowrap) */
