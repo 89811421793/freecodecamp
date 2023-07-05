@@ -1,0 +1,4 @@
+* { /* select all tags */
+    box-sizing: border-box; /* the other value: content-box; */
+  }
+  /* width/height including paddings */
