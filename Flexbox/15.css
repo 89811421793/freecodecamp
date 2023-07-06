@@ -1,0 +1,8 @@
+.gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /*other values: stretch(default), flex-start/end, baseline*/
+  }
