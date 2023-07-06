@@ -1,0 +1,5 @@
+/*use it to add an empty element after the last image. If you give it the same width as the images it will push the last image to the left when the gallery is in a two-column layout. */
+.gallery::after {
+    content: "";
+    width: 350px;
+  }
