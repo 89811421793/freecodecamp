@@ -1,0 +1,4 @@
+#logo {
+    width: max(100px, 18vw);
+    /*will have a min width of 100px and as the viewport grows, the image will grow accordingly to be 18% of the viewport width*/
+}
