@@ -1,0 +1,14 @@
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);  /* rectangle (<top>, <right>, <bottom>, <left>) */
+    white-space: nowrap;   /* governs whitespace and line breaks within an element's text  */
+    border: 0;
+    }
+    /* The clip CSS property defines a visible portion of an element. 
+    The clip property applies only to absolutely positioned elements 
+    — that is, elements with position:absolute or position:fixed. */
