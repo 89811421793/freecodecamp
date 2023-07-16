@@ -1,0 +1,6 @@
+nav > ul > li { /* or nav li (whitespace is obligatory) */
+    color: #dfdfe2;
+  margin: 0 0.2rem;
+  padding: 0.2rem;
+  display: block;
+}
