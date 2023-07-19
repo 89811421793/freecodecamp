@@ -3,3 +3,5 @@
         scroll-behavior: smooth;
     }
 }
+
+/*used in accessibility to set CSS based on the user's preferences; the other value is 'reduce'*/
