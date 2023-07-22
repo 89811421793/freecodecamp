@@ -1,0 +1,4 @@
+h1 .flex span:first-of-type {
+    /*here means 1st span elem in .flex container*/
+    font-size: 0.7em;
+  }
