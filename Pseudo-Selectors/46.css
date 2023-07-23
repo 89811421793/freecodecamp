@@ -1,0 +1,4 @@
+span:not(.sr-only) {
+    font-weight: normal;
+    /*all spans which don't have the sr-only class*/
+  }
