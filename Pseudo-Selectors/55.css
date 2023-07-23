@@ -1,0 +1,4 @@
+tr[class="total"] { /*attr selector*/
+    border-bottom: 4px double #0a0a23;
+    font-weight: bold; 
+  }
