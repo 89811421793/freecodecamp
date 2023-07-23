@@ -1,0 +1,4 @@
+tr.total td:nth-of-type(3) {
+    /*similar to 'first/last-of-type'*/
+    padding-right: 0.5rem;
+  }
