@@ -1,0 +1,5 @@
+table {
+    border-collapse: collapse;
+    /*default value is 'separate'*/
+    border: 0;
+  }
