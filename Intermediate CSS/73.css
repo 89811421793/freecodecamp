@@ -1,0 +1,6 @@
+.triangle {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 42px 45px 45px 0;
+}
