@@ -1,0 +1,11 @@
+html {
+    box-sizing: border-box;
+}
+
+/* used to create cosmetic content (normally, not found in html) */
+*,
+::before,
+::after {
+    box-sizing: inherit;
+    /* that will tell the targeted elements to use the same value as the parent element */
+}
