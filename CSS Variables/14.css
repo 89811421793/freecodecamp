@@ -1,0 +1,10 @@
+/* Variable declarations begin with two dashes (-) and are given a name and a value like this: --variable-name: value; */
+
+.bb1 {
+    --building-color1: #999;
+    width: 10%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
