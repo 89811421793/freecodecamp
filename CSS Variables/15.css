@@ -1,0 +1,7 @@
+/* To use a variable, put the variable name in parentheses with var in front of them like this: var(--variable-name) */
+
+.bb1a {
+    background-color: var(--building-color1);
+    width: 70%;
+    height: 10%;
+  }
