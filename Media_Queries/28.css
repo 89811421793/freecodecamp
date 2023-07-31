@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+    #piano {
+      width: 358px;
+    }
+   /* in case the viewport is 768 or below, the width for #piano becomes 358 */
+  }
