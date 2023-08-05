@@ -1,0 +1,7 @@
+.fb4-window {
+    width: 30%;
+    height: 10%;
+    border-radius: 50%;
+    margin: 10%;
+    background-color: var(--window-color1);
+}
