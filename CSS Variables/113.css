@@ -1,0 +1,10 @@
+.sky {
+    background: radial-gradient(
+        circle closest-corner at 15% 15%,
+        /* moves the start of the gradient to 15% from the top and left */
+        #ffcf33,
+        #ffcf33 20%,
+        #ffff66 21%,
+        #bbeeff 100%
+      );
+  }
