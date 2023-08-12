@@ -1,0 +1,5 @@
+main {
+    /* minmax function with 2 args(min and max) makes the columns responsive on any device; these values could be a length, percentage, fr, or even a keyword like max-content */
+    display: grid;
+    grid-template-columns: minmax(2rem, 1fr) minmax(min-content, 94rem) minmax(2rem, 1fr);
+}
