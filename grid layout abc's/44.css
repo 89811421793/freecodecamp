@@ -1,0 +1,5 @@
+img {
+    width: 100%;
+    object-fit: cover;
+    /* object-fit property tells the browser how to position the element within its container */
+}
