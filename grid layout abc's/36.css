@@ -1,0 +1,6 @@
+.heading {
+    grid-column: 2/3;
+    /* start at grid line(!) 2 and end at grid line(!) 3;
+    lines are being counted, not cells;
+    grid-column property is shorthand for grid-column-start and   grid-column-end*/
+}
