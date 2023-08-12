@@ -1,0 +1,5 @@
+main {
+    display: grid;
+    grid-template-columns: 1fr 94rem 1fr;
+    /* 3columns with its respective sizes; fraction is similar to proportion */
+}
