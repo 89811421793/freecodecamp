@@ -1,0 +1,8 @@
+.image-wrapper {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: repeat(3, min-content);
+    gap: 2rem;
+    /* The place-items property can be used to set the align-items and justify-items values at the same time (if two values, align-items goes first) */
+    place-items: center;
+}
