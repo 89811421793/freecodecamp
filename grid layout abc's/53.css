@@ -1,0 +1,8 @@
+.social-icons {
+    display: grid;
+    font-size: 3rem;
+    grid-template-columns: repeat(5, 1fr);
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+    /* auto-placement algorithm will manifest when a new element is added. However, the algorithm defaults the new column width to be auto, which will not match your current columns. */
+}
