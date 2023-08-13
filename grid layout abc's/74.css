@@ -1,0 +1,7 @@
+.image-wrapper {
+    /* gap is short for row-gap/column-gap (if two values, row-gap is first) */
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: repeat(3, min-content);
+    gap: 2rem;
+}
