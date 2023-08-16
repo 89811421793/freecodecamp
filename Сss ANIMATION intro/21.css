@@ -1,0 +1,16 @@
+.wheel {
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-left: 50px;
+    position: absolute;
+    height: 55vw;
+    width: 55vw;
+    max-width: 500px;
+    max-height: 500px;
+    animation-name: wheel;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    /* or set to a number (how many times to repeat the anima) */
+    animation-timing-function: linear;   /* or cubic-bezier(0,0,1,1) */
+    /* see also MDN; values: ease,ease-in/out, ease-in-out etc */
+  }
