@@ -1,0 +1,4 @@
+.cabin:first-of-type { /*or :nth-of-type(1) */
+    right: -8.5%;
+    top: 50%;
+  }
