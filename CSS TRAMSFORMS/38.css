@@ -1,0 +1,4 @@
+.penguin-body::before {
+    /*or ::after*/
+    content: "";
+}
