@@ -1,0 +1,4 @@
+.penguin * {
+    /* Targeting all descendent elements of the .penguin element */
+    position: absolute;
+}
