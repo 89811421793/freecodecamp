@@ -1,0 +1,8 @@
+.arm.left {
+    top: 35%;
+    left: 5%;
+    transform-origin: top left; 
+    transform: rotate(130deg) scaleX(-1);
+    animation: wave 3s infinite linear;
+    /*or use the properties separately*/
+  }
