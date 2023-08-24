@@ -1,0 +1,5 @@
+.penguin:active {
+    transform: scale(1.5);
+    cursor: not-allowed;  /*no dragging*/
+    /*see any specification if needed*/
+  }
