@@ -1,0 +1,1 @@
+let yourArray = [Infinity, 'John', null, Symbol('id'), 30, undefined, 'isAdmin', true, 1e3, 12n, NaN, false, -Infinity, Symbol()]; // Change this line
