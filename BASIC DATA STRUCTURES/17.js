@@ -35,10 +35,15 @@ let users = {
   console.log(isEveryoneHere(users));
   
   
-  /*or like this one:
-  if ('Alan' in userObj && 'Jeff' in userObj && 'Sarah' in userObj && 'Ryan' in userObj) {
-    return true
-  } else {
-    return false
-  }
-  */
+  /*or like this two:
+if ('Alan' in userObj && 'Jeff' in userObj && 'Sarah' in userObj && 'Ryan' in userObj) {
+  return true
+} else {
+  return false
+}
+
+or:
+return ["Alan", "Jeff", "Sarah", "Ryan"].every(name =>
+    userObj.hasOwnProperty(name)
+  );
+*/
