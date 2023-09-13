@@ -14,6 +14,6 @@ function repeatStringNumTimes(str, num) {
  
  }
  
- /* or: times > 0 ? string.repeat(times) : ""*/
+ /* or: num > 0 ? string.repeat(num) : ""*/
  
  repeatStringNumTimes("abc", 3);
