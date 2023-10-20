@@ -1,0 +1,49 @@
+x<style type="text/scss">
+  @each $color in blue, black, red {
+    .#{$color}-bg {
+      background-color: $color;
+    }
+  }
+
+  div {
+    height: 200px;
+    width: 200px;
+  }
+</style>
+
+<div class="blue-bg"></div>
+<div class="black-bg"></div>
+<div class="red-bg"></div>
+
+<!-- @each $color in blue, red, green {
+      .#{$color}-text {color: $color;}
+    };
+    
+    A map has slightly different syntax.$key variable is needed to reference the keys in the map. Here's an example:
+    
+    $colors: (color1: blue, color2: red, color3: green);
+    
+    @each $key, $color in $colors {
+      .#{$color}-text {color: $color;}
+    } 
+    
+    The result in css is:
+    .blue-text {
+      color: blue;
+    }
+    
+    .red-text {
+      color: red;
+    }
+    
+    .green-text {
+      color: green;
+    }-->
+
+
+
+    <!--another solution: $colors: (color1: blue, color2: black, color3: red);
+    
+    @each $key, $color in $colors {
+      .#{$color}-bg {background-color: $color;}
+    } -->
