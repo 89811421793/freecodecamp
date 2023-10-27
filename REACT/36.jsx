@@ -6,4 +6,5 @@ class Colorful extends React.Component {
     }
   };
   
-  {/*'72px' can be conveyed as 72 as well (px units are omitted*/}
+  {/*'72px' can be conveyed as 72 as well (px units are omitted;
+  compare to the inline styles in html: <div style="color: yellow; font-size: 16px">*/}
